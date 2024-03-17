@@ -8,4 +8,4 @@ Name: Yosef Manganju Manalu
 
 Info:
 <br>If you Use Google Colab do "!apt install fonts-ipafont-gothic" first and make sure to upload the dataset and cange the path in 
-<br> "df = pd.read_csv('your_path')"
+<br> "df = pd.read_csv('your_dataset_path')"
