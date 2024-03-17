@@ -7,5 +7,5 @@ Name: Yosef Manganju Manalu
 <br>Program: IBM Advance AI
 
 Info:
-If you Use Google Colab do "!apt install fonts-ipafont-gothic" first and make sure to upload the dataset and cange the path in 
+<br>If you Use Google Colab do "!apt install fonts-ipafont-gothic" first and make sure to upload the dataset and cange the path in 
 <br> "df = pd.read_csv('your_path')"
